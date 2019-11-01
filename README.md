@@ -1,0 +1,2 @@
+# PythonTraining
+Free python exercises
